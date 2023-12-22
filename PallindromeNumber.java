@@ -1,4 +1,7 @@
 public class PallindromeNumber {
+
+    //Author Rohit Kumar
+
     public static void main(String[] args)
     {
         int number= 22122;
