@@ -1,4 +1,4 @@
-/*
+package Java_Exercises;/*
 Diagonal Star
 --------------------
 Write a method named printSquareStar with one parameter of type int named number.

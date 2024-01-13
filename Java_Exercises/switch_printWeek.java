@@ -1,3 +1,5 @@
+package Java_Exercises;
+
 public class switch_printWeek {
     public static void main(String[] args) {
 

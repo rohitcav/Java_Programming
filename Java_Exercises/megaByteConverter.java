@@ -1,3 +1,5 @@
+package Java_Exercises;
+
 public class megaByteConverter {
     public static void main(String[] args) {
         printMegaBytesAndKiloBytes(2500);
