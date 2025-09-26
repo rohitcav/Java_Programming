@@ -1,4 +1,4 @@
-package Java_Exercises;
+// package Java_Exercises;
 
 public class HelloWorld {
         public static void main(String[] args) {
